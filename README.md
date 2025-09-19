@@ -7,14 +7,14 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 
 - 💡 I enjoy solving LeetCode (300+ problems), building web apps, and mentoring budding developers.
 - 🔭 I’m currently working on my **CP Skills**
-- 📫 How to reach me: [geddamgowtham4@gmail.com](mailto:geddamgowtham4@gmail.com)
+- 📫 How to reach me: [medisettisrinu2004@gmail.com](mailto:medisettisrinu2004@gmail.com)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1iPig4J6lAxQXE29T6HXvjwrDWDbdqdL3/view?usp=sharing)
-- 📧 Know more about me: [Portfolio](https://portfolio-syam.vercel.app)
+- 📧 Know more about me: [Portfolio](https://my-portfolio2-phi-ashen.vercel.app/)
 
 ## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nameishyam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Syam Gowtham" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/srinu-medisetti" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Syam Gowtham" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/geddamgowtham4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandini805" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/nameishyam" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandu8054" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/geddamgowtham" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nandiniji127q" height="30" width="40" /></a>
