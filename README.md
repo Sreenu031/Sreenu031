@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Syam Gowtham!</h1>
-<h3 align="center">MERN Stack & Machine Learning Enthusiast | Geek for C++ | Open Source Contributor</h3>
+<h1 align="center">Hi there 👋, I'm Srinu Medisetti!</h1>
+<h3 align="center">MERN Stack & Machine Learning Enthusiast | Geek for Java | Open Source Contributor</h3>
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
