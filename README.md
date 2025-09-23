@@ -8,7 +8,7 @@ Thrilled to connect with you here! As a web developer, I'm adept in MERN and oth
 - 💡 I enjoy solving LeetCode (300+ problems), building web apps, and mentoring budding developers.
 - 🔭 I’m currently working on my **CP Skills**
 - 📫 How to reach me: [medisettisrinu2004@gmail.com](mailto:medisettisrinu2004@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1iPig4J6lAxQXE29T6HXvjwrDWDbdqdL3/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/13wZtaLdW8N5wULYPaQuD2nxVIQ2OFJV3/view?usp=drive_link)
 - 📧 Know more about me: [Portfolio](https://my-portfolio2-phi-ashen.vercel.app/)
 
 ## 🌐 Connect with me:
